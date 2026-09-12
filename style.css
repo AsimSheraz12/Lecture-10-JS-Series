@@ -44,12 +44,12 @@ img{
     font-weight: bold;
     margin-bottom: 3rem;
 }
-#userScore,#compScore{
+#userScore,#compScore,#draw,#total{
     font-size: 4rem ;
     font-weight: normal; 
 }
 
-.mesContainer{
+#mesContainer{
     background-color: #081b31;
     font-size: 2.5rem;
     font-family:Verdana, Geneva, Tahoma, sans-serif ;
